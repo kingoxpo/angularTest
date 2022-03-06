@@ -1,0 +1,21 @@
+{
+  "name": "actionhero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "actionhero start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actionhero": "^20.0.0",
+    "bluebird": "^3.7.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
